@@ -84,3 +84,8 @@ display:block;
 background:cyan;
 padding:8px;
 }
+
+.card {
+  text-decoration: none;
+  color: white;
+}

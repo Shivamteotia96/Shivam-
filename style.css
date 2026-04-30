@@ -89,3 +89,14 @@ padding:8px;
   text-decoration: none;
   color: white;
 }
+.section img {
+  margin: 20px 0;
+}
+
+button, a {
+  transition: 0.3s;
+}
+
+a:hover {
+  opacity: 0.8;
+}
